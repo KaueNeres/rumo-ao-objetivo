@@ -1,0 +1,16 @@
+# Dados gerados e pessoais (históricos de partidas, PUUIDs, caches): o app recria tudo sozinho
+data/
+
+# Chaves e segredos
+riot_key.txt
+.env
+.env.*
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Sistema
+Thumbs.db
+.DS_Store
+*.tmp
